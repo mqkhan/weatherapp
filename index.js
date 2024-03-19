@@ -1,4 +1,4 @@
-const apikey = "2d5f30517eee81f640ad0c4d68979a9e";
+const apikey = "";
 const weatherDataEl = document.getElementById("weather-data");
 const cityInputEl = document.getElementById("city-input");
 const formEl = document.querySelector("form");
